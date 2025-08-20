@@ -1,0 +1,28 @@
+[
+  {
+    "@id": "",
+    "@context": {
+      "ucdlib": "http://digital.ucdavis.edu/schema#"
+    },
+    "@type": [
+      "ucdlib:LabelService",
+      "ucdlib:Service"
+    ]
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/01058072",
+    "http://schema.org/name": "Periodicals"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/01273298",
+    "http://schema.org/name": "Sacramento Valley (Calif.)"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/2010860",
+    "http://schema.org/name": "Queer culture"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/939152",
+    "http://schema.org/name": "Gay men--Social life and customs"
+  }
+]
