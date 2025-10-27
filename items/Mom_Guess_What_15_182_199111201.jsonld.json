@@ -34,7 +34,7 @@
   },
   "schema:creator": "",
   "schema:datePublished": {
-    "@type": "http://www.w3.org/2001/XMLSchema#date",
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
     "@value": "1991-12-01"
   },
   "schema:identifier": [
