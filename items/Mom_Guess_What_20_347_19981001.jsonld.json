@@ -38,7 +38,8 @@
     "@value": "1998-10-01"
   },
   "schema:identifier": [
-    "ark:/87293/d3bk16x7r"
+    "ark:/87293/d3bk16x7r",
+    "HQ75M6"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Mom_Guess_What_20_347_19981001_001.tif"

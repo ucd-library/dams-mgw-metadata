@@ -38,7 +38,8 @@
     "@value": "1993-08-01"
   },
   "schema:identifier": [
-    "ark:/87293/d30p0wz90"
+    "ark:/87293/d30p0wz90",
+    "HQ75M6"
   ],
   "schema:image": {
     "@id": "@base:/media/images/Mom_Guess_What_16_222_19930801_001.tif"
