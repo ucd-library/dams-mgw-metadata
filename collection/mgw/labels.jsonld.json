@@ -10,6 +10,10 @@
     ]
   },
   {
+    "@id": "https://id.worldcat.org/fast/00000",
+    "http://schema.org/name": "Mom Guess What"
+  },
+  {
     "@id": "http://id.worldcat.org/fast/01058072",
     "http://schema.org/name": "Periodicals"
   },
