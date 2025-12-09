@@ -18,6 +18,10 @@
     "http://schema.org/name": "Periodicals"
   },
   {
+  "@id": "http://id.worldcat.org/fast/996578",
+  "http://schema.org/name": "Lesbians--Social life and customs"
+  },
+  {
     "@id": "http://id.worldcat.org/fast/01273298",
     "http://schema.org/name": "Sacramento Valley (Calif.)"
   },
