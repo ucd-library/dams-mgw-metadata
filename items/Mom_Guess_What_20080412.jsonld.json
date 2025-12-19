@@ -26,6 +26,12 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/939152"
+    },
+    {
+      "@id": "https://id.worldcat.org/fast/00000"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/996578"
     }
   ],
   "schema:description": "",
